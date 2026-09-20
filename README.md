@@ -13,3 +13,16 @@ This is a C++ library for Arithmetic Logic Units. The library is intended for st
 
 
 **Note: Since this is not an official library, you must include it using double quotes. As this is a C++ library, it cannot be used with other programming languages.**
+
+Usage Example:
+``` cpp
+#include <iostream>
+#include "GATE.h"
+
+int main() {
+    std::cout << "AND: " << AND_GATE(true, true) << std::endl;
+    std::cout << "OR: " << OR_GATE(true, false) << std::endl;
+    return 0;
+}
+
+```
