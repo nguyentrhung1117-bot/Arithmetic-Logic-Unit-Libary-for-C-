@@ -26,3 +26,14 @@ int main() {
 }
 
 ```
+
+# Functions included in the library.
+
+1. bool s_switch(bool s);
+2. bool NOT_GATE(bool s);
+3. bool AND_GATE(bool a, bool b);
+4. bool OR_GATE(bool a, bool b);
+5. bool NAND_GATE(bool a, bool b);
+6. bool NOR_GATE(bool a, bool b);
+7. bool XOR_GATE(bool a, bool b);
+8. bool XNOR_GATE(bool a, bool b);
