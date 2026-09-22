@@ -19,9 +19,11 @@ Usage Example:
 #include <iostream>
 #include "GATE.h"
 
+using namespace std;
+
 int main() {
-    std::cout << "AND: " << AND_GATE(true, true) << std::endl;
-    std::cout << "OR: " << OR_GATE(true, false) << std::endl;
+    cout << "AND: " << AND_GATE(true, true) << endl;
+    cout << "OR: " << OR_GATE(true, false) << endl;
     return 0;
 }
 
