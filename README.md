@@ -39,3 +39,8 @@ int main() {
 6. bool NOR_GATE(bool a, bool b);
 7. bool XOR_GATE(bool a, bool b);
 8. bool XNOR_GATE(bool a, bool b);
+
+New library revealed
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fafa2e5e-cc6a-4dc2-8c22-8bee672096de" />
+
